@@ -1,0 +1,2 @@
+# IPP
+Individual Programistic Project
