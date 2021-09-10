@@ -1,0 +1,16 @@
+/**
+@mainpage Dokumentacja zadania wielomiany
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu operacji na wielomianach
+rzadkich wielu zmiennych.
+
+Część pierwsza polegała na zaimplementowaniu podstawowych operacji na wielomianach.
+Część druga polegała na napisaniu kalkulatora dla tych wielomianów.
+Część trzecia polegała na dokończeniu i rozszerzeniu programu.
+*/
